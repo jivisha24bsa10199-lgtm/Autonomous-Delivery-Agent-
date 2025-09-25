@@ -38,9 +38,9 @@ I have organized the project into a src directory to make it a Python package.
 
 │ ├── init. py # 'src' becomes a Python package (so that it is importable)
 
-│ ├── AGENT. py # Delivery Agent definition
+│ ├── Agent. py # Delivery Agent definition
 
-│ ├── Algo. py # has routing alg implementations
+│ ├── ALGO. py # has routing alg implementations
 
 │ ├── API. py # High-level interface for the simulation
 
